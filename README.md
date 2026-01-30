@@ -61,7 +61,7 @@ gym-app/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/gym-bmi-gym-app.git
+git clone https://github.com/Prashant23y/gym-bmi-react-node-app.git
 
 ---
 
@@ -90,6 +90,10 @@ git clone https://github.com/your-username/gym-bmi-gym-app.git
 ---
 
 ## 📸 Screenshots
+- <img width="1846" height="746" alt="image" src="https://github.com/user-attachments/assets/72cb4a37-0ab8-40bf-9487-a9e613687690" />
+- <img width="1866" height="763" alt="image" src="https://github.com/user-attachments/assets/7a990f90-0aae-4462-8dba-17c25be36484" />
+- <img width="1727" height="886" alt="image" src="https://github.com/user-attachments/assets/e696859c-f7b5-4e85-9cb4-1c708d7176a4" />
+
 
 ---
 
@@ -103,5 +107,5 @@ git clone https://github.com/your-username/gym-bmi-gym-app.git
 
 ## 🧑‍💻 Author
 
-- Your Name
-- GitHub: https://github.com/your-username
+- Prashant Kumar
+- GitHub: https://github.com/Prashant23y
